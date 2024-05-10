@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning about scaling ML models in production
 - 👯 I’m looking to collaborate on web3 projects, opensource ML Engineering projects
-- 💬 Ask me about MLOps, algorithms, data-intensive systems and
+- 💬 Ask me about MLOps, algorithms, data-intensive systems and event-driven architecture
