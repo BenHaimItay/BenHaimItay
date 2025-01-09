@@ -1,9 +1,3 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
-![MLOps](https://img.shields.io/badge/MLOps-Expert-blue?style=for-the-badge&logo=nvidia)
-
-
-
 # Shalom 👋
 
 I'm ItayBenHaim - a Pragmatic Husband, Data-Oriented Father, MLOps Engineer ( I sometimes surf too )
