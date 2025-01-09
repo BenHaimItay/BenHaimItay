@@ -1,9 +1,43 @@
-### Shalom 👋
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
+![MLOps](https://img.shields.io/badge/MLOps-Expert-blue?style=for-the-badge&logo=nvidia)
 
 
-## I'm ItayBenHaim - a Pragmatic Husband, Data-Oriented Father, Softskilled Software Developer ( I sometimes surf too )
 
+# Shalom 👋
 
-- 🌱 I’m currently learning about scaling ML models in production
-- 👯 I’m looking to collaborate on web3 projects, opensource ML Engineering projects
-- 💬 Ask me about MLOps, algorithms, data-intensive systems and event-driven architecture
+I'm ItayBenHaim - a Pragmatic Husband, Data-Oriented Father, MLOps Engineer ( I sometimes surf too )
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
+![MLOps](https://img.shields.io/badge/MLOps-Expert-blue?style=for-the-badge&logo=nvidia)
+
+🔧 **Tech Stack:**
+- MLOps & ML Infrastructure (KServe, Triton, GPU Optimization)
+- Kubernetes Expert (EKS, Karpenter, Minikube)
+- AWS Cloud (ECR, GPU instances, infrastructure optimization)
+- Python & Java Development
+
+🌱 **Currently focused on:**
+- Scaling ML models in production
+- GPU-optimized infrastructure
+- Cost-effective ML deployments
+- Large model inference optimization
+
+👯 **Looking to collaborate on:**
+- Web3 projects
+- OpenSource ML Engineering projects
+- MLOps tools and frameworks
+
+💬 **Ask me about:**
+- MLOps & ML Infrastructure
+- Kubernetes & Container Orchestration
+- GPU Optimization & ML Serving
+- Data-intensive systems
+- Event-driven architecture
+
+🛠️ **Daily tools:** Python, Kubernetes, AWS, GPU Computing, Docker, KServe, Triton
+
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=Sabidao&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=BenHaimItay&show_icons=true&theme=radical))
+
+</div>
