@@ -32,6 +32,6 @@ I'm ItayBenHaim - a Pragmatic Husband, Data-Oriented Father, MLOps Engineer ( I 
 
 🛠️ **Daily tools:** Python, Kubernetes, AWS, GPU Computing, Docker, KServe, Triton
 
-![GitHub stats]((https://github-readme-stats.vercel.app/api?username=BenHaimItay&show_icons=true&theme=radical))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenHaimItay&show_icons=true&theme=radical)
 
 </div>
